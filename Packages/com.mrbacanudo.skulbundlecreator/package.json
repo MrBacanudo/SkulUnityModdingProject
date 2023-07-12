@@ -1,0 +1,15 @@
+{
+    "name": "com.mrbacanudo.skulbundlecreator",
+    "version": "1.0.0",
+    "displayName": "Skul Mod AssetBundle Creator",
+    "description": "Allows creating AssetBundles in Unity that can be imported at runtime on Skul: the Hero Slayer mods.",
+    "unity": "2020.3",
+    "dependencies": {
+        "com.unity.nuget.mono-cecil": "1.11.4",
+        "com.unity.scriptablebuildpipeline": "1.19.6"
+    },
+    "author": {
+        "name": "MrBacanudo",
+        "url": "https://github.com/MrBacanudo"
+    }
+}
